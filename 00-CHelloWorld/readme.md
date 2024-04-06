@@ -1,1 +1,2 @@
-
+- Compilador: MSYS2, MinGW, version 11.3.0
+- Version de C: C2x
