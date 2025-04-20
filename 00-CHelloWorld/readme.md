@@ -1,2 +1,3 @@
 - Compilador: MinGW, version 6.3.0
 - Version de C: C11
+- gcc --std=c11 hello.c
